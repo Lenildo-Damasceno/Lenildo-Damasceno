@@ -65,4 +65,6 @@
 
 <p align="center">
 ✨ Sinta-se à vontade para explorar meus repositórios e sugerir melhorias. Vamos aprender e construir juntos.
+
+  ![Lenildo GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenildo-Damasceno&theme=dark&show_icons=true)
 </p>
