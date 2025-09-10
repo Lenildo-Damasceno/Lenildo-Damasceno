@@ -52,8 +52,8 @@
 
 <div align="center">
   <h3 style="color: #8A2BE2;">📫 Contato</h3>
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="URL_DO_SEU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:damascenolenildo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lenildo-damasceno-03173022a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <p>🛠️ Aberto a colaborações e aprendizados em conjunto.</p>
 </div>
 
@@ -66,5 +66,4 @@
 <p align="center">
 ✨ Sinta-se à vontade para explorar meus repositórios e sugerir melhorias. Vamos aprender e construir juntos.
 
-  ![Lenildo GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenildo-Damasceno&theme=dark&show_icons=true)
 </p>
