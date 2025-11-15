@@ -38,19 +38,13 @@
 <div>
   <h3 style="color: #4169E1;">📌 Projetos em andamento</h3>
   <ul>
-    <li>Repositórios para facilitar estudos de Git e GitHub</li>
-    <li>Site informativo sobre Natal-RN</li>
-    <li>Animações explicativas para reforço de estudos</li>
+    
+    <li>Estudando muito</li>
+   
   </ul>
 </div>
 
-<div style="font-size: 16px;">
-❤️ Além da tecnologia, minha vida é marcada pelo cuidado com minha família e pelo aprendizado diário com meu filho Miguel Lorenzo, que me inspira a sempre buscar soluções criativas e inclusivas.
-</div>
-
-<br>
-
-<div align="center"> //
+<div align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
