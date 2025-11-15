@@ -21,7 +21,7 @@
       <li>Git e GitHub na prática</li>
       <li>Organização de repositórios para estudos e colaboração</li>
       <li>Noções de engenharia de software</li>
-      <li>Desenvolvimento Web</li>
+      <li>Desenvolvimento Desktop</li>
     </ul>
   </div>
   <div style="flex: 1;">
@@ -33,15 +33,6 @@
       <li>Minimalismo funcional em código e design</li>
     </ul>
   </div>
-</div>
-
-<div>
-  <h3 style="color: #4169E1;">📌 Projetos em andamento</h3>
-  <ul>
-    
-    <li>Estudando muito</li>
-   
-  </ul>
 </div>
 
 <div align="center"> 
